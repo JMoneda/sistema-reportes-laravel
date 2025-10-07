@@ -150,30 +150,33 @@ phpprivate function obtenerDatosVentas()
         ['id' => 1, 'producto' => 'Nombre', 'cantidad' => 10, ...],
     ];
 }
-Cambiar colores del tema
+```
+markdown
+
+## Cambiar colores del tema
 Modificar las variables CSS en resources/views/reporte.blade.php:
 css/* Buscar estos gradientes y cambiarlos */
 background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-🎨 Características Técnicas
+## 🎨 Características Técnicas
 Patrón MVC
 
 Modelo: Datos de ejemplo en el controlador (preparado para BD)
 Vista: Blade templates con CSS integrado
 Controlador: ReporteController maneja toda la lógica
 
-Seguridad
+## Seguridad
 
 Protección CSRF de Laravel (para formularios)
 Validación de parámetros de entrada
 Sanitización automática de Blade templates
 
-Performance
+## Performance
 
 Caché de configuración de Laravel
 Optimización de consultas (preparado para BD)
 Assets CDN para Chart.js
 
-🚧 Mejoras Futuras
+## 🚧 Mejoras Futuras
 
  Integración con base de datos MySQL/PostgreSQL
  Sistema de autenticación de usuarios
@@ -184,7 +187,7 @@ Assets CDN para Chart.js
  Exportación a Excel
  Dashboard en tiempo real con WebSockets
 
-🤝 Contribuciones
+## 🤝 Contribuciones
 Este es un proyecto de demostración educativa. Si deseas mejorarlo:
 
 Fork el proyecto
@@ -193,7 +196,7 @@ Commit tus cambios (git commit -m 'Agregar nueva característica')
 Push a la rama (git push origin feature/nueva-caracteristica)
 Abre un Pull Request
 
-📝 Notas de Desarrollo
+## 📝 Notas de Desarrollo
 Decisiones de diseño
 
 Se optó por datos de ejemplo en lugar de BD para facilitar la demostración
@@ -201,14 +204,14 @@ CSS integrado en Blade para portabilidad (sin dependencias de build)
 Chart.js desde CDN para evitar npm/webpack
 DomPDF para máxima compatibilidad en generación de PDFs
 
-Lecciones aprendidas
+## Lecciones aprendidas
 
 Laravel simplifica enormemente el desarrollo con PHP
 Blade templates permiten código limpio y mantenible
 La arquitectura MVC facilita la escalabilidad
 El ecosistema de Laravel tiene soluciones para casi todo
 
-📄 Licencia
+## 📄 Licencia
 Este proyecto es de código abierto y está disponible bajo la Licencia MIT.
 👨‍💻 Autor
 [JMGH]
@@ -216,7 +219,7 @@ Este proyecto es de código abierto y está disponible bajo la Licencia MIT.
 Proyecto desarrollado como demostración de habilidades en Laravel
 Octubre 2025
 
-📧 Contacto
+## 📧 Contacto
 Para preguntas o sugerencias:
 
 Email: josemiguel9302@gmail.com
