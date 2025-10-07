@@ -1,4 +1,6 @@
-markdown# 📊 Sistema de Reportes de Ventas
+```markdown
+
+# 📊 Sistema de Reportes de Ventas
 
 Sistema web de generación de reportes empresariales desarrollado con Laravel. Permite visualizar, filtrar y exportar datos de ventas de manera interactiva y profesional.
 
@@ -222,7 +224,7 @@ GitHub: [JMondeda]
 Desarrollado con ❤️ usando Laravel Framework
 
 ---
-
+```
 ```markdown
 ![Status](https://img.shields.io/badge/Status-Activo-success?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)
