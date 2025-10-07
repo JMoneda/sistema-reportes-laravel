@@ -219,9 +219,9 @@ Octubre 2025
 📧 Contacto
 Para preguntas o sugerencias:
 
-Email: josemiguel9302@gmai
-LinkedIn: [https://www.linkedin.com/in/jose-miguel-gonzalez-hernandez-48945718a/]
-GitHub: [JMondeda]
+Email: josemiguel9302@gmail.com
+LinkedIn: ([JMGH](https://www.linkedin.com/in/jose-miguel-gonzalez-hernandez-48945718a/))
+GitHub: ([JMoneda](https://github.com/JMoneda))
 
 
 ⭐ Si te gusta este proyecto, dale una estrella! ⭐
