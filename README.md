@@ -1,4 +1,4 @@
-```markdown
+markdown
 
 # 📊 Sistema de Reportes de Ventas
 
@@ -62,7 +62,7 @@ Exportación profesional en formato PDF para imprimir o compartir.
 https://laragon.org/download/
 
 2. **Clonar o extraer el proyecto**
-```
+
 ```bash
    # Extraer en: C:\laragon\www\mi-reporte
 
