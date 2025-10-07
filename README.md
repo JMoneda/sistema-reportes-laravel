@@ -7,6 +7,9 @@ Sistema web de generación de reportes empresariales desarrollado con Laravel. P
 ![Laravel](https://img.shields.io/badge/Laravel-11.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Activo-success?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 ## 🎯 Características
 
@@ -59,6 +62,7 @@ Exportación profesional en formato PDF para imprimir o compartir.
 https://laragon.org/download/
 
 2. **Clonar o extraer el proyecto**
+```
 ```bash
    # Extraer en: C:\laragon\www\mi-reporte
 
@@ -224,8 +228,3 @@ GitHub: [JMondeda]
 Desarrollado con ❤️ usando Laravel Framework
 
 ---
-```
-```markdown
-![Status](https://img.shields.io/badge/Status-Activo-success?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
